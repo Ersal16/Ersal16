@@ -1,6 +1,6 @@
 # Hello everyone
-## I'mm Salmo, a 16 years old italian beginner developer
-I started coding when i was 14, i still have much to learn.
+## I'm Salmo, a 16 years old italian beginner developer
+I started coding when i was 13, i still have much to learn.
 I spend about 3-4 hours a day coding, but sometimes I lose the track of time and I end up turning off my computer at 3am
 
 
@@ -11,6 +11,7 @@ I spend about 3-4 hours a day coding, but sometimes I lose the track of time and
   - I worked a lot on telegram bots and minigames
   - I'm familiar with Kivy and KivyMD
   - I'm planning to learn data science with Python
+  - I also used flask for backend while developing web applications
  
 ### **C++**
   - currently I only develop console apps but I'm planning to start using frameworks
