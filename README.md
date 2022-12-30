@@ -1,9 +1,4 @@
 # Hello everyone
-## I'm Salmo, a 16 years old italian beginner developer
-I started coding when i was 13, i still have much to learn.
-I spend about 3-4 hours a day coding, but sometimes I lose the track of time and I end up turning off my computer at 3am
-
-
 
 
 ## Languages i'm familiar with/im learning:
