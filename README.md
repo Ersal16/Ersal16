@@ -9,7 +9,7 @@
   - I also used flask for backend while developing web applications
  
 ### **C++**
-  - currently I only develop console apps but I'm planning to start using frameworks
+  - currently I only develop console apps but I'm planning to start using GUI frameworks
 
 ### **C#**
   - Still learning C# and Unity
@@ -22,7 +22,6 @@
   - I practiced by recreating the frontend of popular websites and this helped me a lot
 
 
-I usually work on projects related to anime
 
 
 
