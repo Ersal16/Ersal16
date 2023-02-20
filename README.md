@@ -7,6 +7,7 @@
   - I'm familiar with Kivy and KivyMD
   - I'm planning to learn data science with Python
   - I also used flask for backend while developing web applications
+  - I used selenium for web scrapeing
  
 ### **C++**
   - currently I only develop console apps but I'm planning to start using GUI frameworks
@@ -20,6 +21,7 @@
 ### **HTML, CSS, JS**
   - These are the languages that i know better
   - I practiced by recreating the frontend of popular websites and this helped me a lot
+  - React and React native
 
 
 
