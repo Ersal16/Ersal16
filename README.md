@@ -1,27 +1,26 @@
 # Hello everyone
-
-
+<div align="center">
+  <img src="889928.png" style="height:400px; width:inherit;">
+  <p>I'm a 16 years old beginner developer from Italy</p>
+</div>
+  
 ## Languages i'm familiar with/im learning:
 ### **Python**
-  - I worked a lot on telegram bots and minigames
-  - I'm familiar with Kivy and KivyMD
-  - I'm planning to learn data science with Python
-  - I also used flask for backend while developing web applications
-  - I used selenium for web scrapeing
- 
+        Flask
+        Telebot
+        Kivy
+        PIL
+        BeautifulSoup
+        
 ### **C++**
-  - currently I only develop console apps but I'm planning to start using GUI frameworks
-
-### **C#**
-  - Still learning C# and Unity
-
+        Iostream
+        Stdlib
+        
 ### **Dart (on hold)**
-  - I started learning dart for flutter, but I ended up learning Kivy
+        Flutter
 
 ### **HTML, CSS, JS**
-  - These are the languages that i know better
-  - I practiced by recreating the frontend of popular websites and this helped me a lot
-  - React and React native
+        React
 
 
 
